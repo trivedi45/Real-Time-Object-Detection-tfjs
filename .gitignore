@@ -1,0 +1,7 @@
+__MACOSX/
+.DS_Store
+desktop.ini
+.vs/
+node_modules/
+__pycache__/
+.env
